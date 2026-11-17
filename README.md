@@ -15,21 +15,11 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Full Stack Develop
 ## 🛠️ Tech Stack & Tools ##
 
 **Programming Languages**
-- Java
-- JavaScript
-- C
-- C++
-
+`Java` `JavaScript` `C` `C++`
 **Frontend Development**
-- Html
-- Css
-- React.js
-- Tailwind css
-
+`HTML` `CSS` `React.ja` `Tailwind css`
 **Database**
-- MySql
-- MongoDB
-
+`MySql` `MongoDB`
 ---
 
 ## 🚀 Featured Projects
