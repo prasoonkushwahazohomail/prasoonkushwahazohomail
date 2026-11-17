@@ -80,13 +80,3 @@ Here are some of the projects I'm working on and learning from:
   <br/>
   <i>Keep Learning. Keep Building. Keep Growing.</i>
 </p>
-
-## 🤝 Connect With Me ##
-
-\<p align="left">   \<a href="[https://github.com/prasoonkushwahazohomail](https://github.com/prasoonkushwahazohomail)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />   \</a> \</p>
-
-I'm always interested in learning, collaborating, and connecting with fellow developers.
-
----
-
-\<p align="center">   ⭐ \<b>Thanks for visiting my profile!\</b>   \<br/>   \<i>Keep Learning. Keep Building. Keep Growing.\</i> \</p>
