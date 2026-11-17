@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prasoon Kumar
+# 👋 Hi, I'm Prasoon.
 
 ### 💻 Aspiring Full Stack Developer | Java | JavaScript | React
 
@@ -51,7 +51,9 @@ Here are some of the projects I'm working on and learning from:
 | Digital Library Management System | Library management system with database design | MySQL            |
 | Student Study Planner             | Application for organizing study activities    | Web Technologies |
 
-👉 **Explore all my repositories:** [GitHub Repositories](https://github.com/prasoonkushwahazohomail?tab=repositories)
+ 👉 **Explore all my repositories:** [GitHub Repositories](https://github.com/prasoonkushwahazohomail?tab=repositories) 
+
+ 👉 **Explore all my Leetcode Profile:** [Leetcode Profile](https://leetcode.com/u/prasoonkushwaha/)
 
 ---
 
