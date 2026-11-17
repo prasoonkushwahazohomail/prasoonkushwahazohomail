@@ -56,16 +56,18 @@ Here are some of the projects I'm working on and learning from:
 ---
 
 
-## 📊 GitHub Statistics ##
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasoonkushwahazohomail&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkushwahazohomail&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=prasoonkushwahazohomail&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=prasoonkushwahazohomail&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prasoonkushwahazohomail&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
 
 ---
 
