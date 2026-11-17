@@ -12,15 +12,33 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Full Stack Develop
 
 ---
 
-## 🛠️ Tech Stack & Tools ##
 
-**Programming Languages**
-`Java` `JavaScript` `C` `C++`
-**Frontend Development**
-`HTML` `CSS` `React.ja` `Tailwind css`
-**Database**
-`MySql` `MongoDB`
----
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
+
 
 ## 🚀 Featured Projects
 
