@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Prasoon Kumar
 
-<!--
-**prasoonkushwahazohomail/prasoonkushwahazohomail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full Stack Developer | Java | JavaScript | React
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate and aspiring **Full Stack Developer** who enjoys building practical applications, solving problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently developing my skills in Full Stack Development.
+- 💻 Interested in building responsive and user-friendly web applications.
+- 🌱 Learning and improving my programming and problem-solving skills.
+- 🚀 Working on projects using Java, JavaScript, React, and MySQL.
+- 🎯 Goal: To become a skilled software developer and contribute to real-world projects.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Programming Languages**
+
+\
+
+
+**Frontend Development**
+
+
+\
+
+
+**Database**
+
+
+
+**Development Tools**
+
+
+\
+
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I'm working on and learning from:
+
+| Project                           | Description                                    | Technologies     |
+| --------------------------------- | ---------------------------------------------- | ---------------- |
+| Number Guessing Game              | Interactive number guessing game               | Java             |
+| ATM Interface                     | Console-based ATM simulation                   | Java, OOP        |
+| Digital Library Management System | Library management system with database design | MySQL            |
+| Student Study Planner             | Application for organizing study activities    | Web Technologies |
+
+👉 **Explore all my repositories:** [GitHub Repositories](https://github.com/prasoonkushwahazohomail?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=prasoonkushwahazohomail&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=prasoonkushwahazohomail\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" alt="GitHub Stats" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkushwahazohomail&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkushwahazohomail\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Top Languages" /> \</p>
+
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=prasoonkushwahazohomail&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=prasoonkushwahazohomail\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" /> \</p>
+
+---
+
+## 🤝 Connect With Me
+
+\<p align="left">   \<a href="[https://github.com/prasoonkushwahazohomail](https://github.com/prasoonkushwahazohomail)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />   \</a> \</p>
+
+I'm always interested in learning, collaborating, and connecting with fellow developers.
+
+---
+
+\<p align="center">   ⭐ \<b>Thanks for visiting my profile!\</b>   \<br/>   \<i>Keep Learning. Keep Building. Keep Growing.\</i> \</p>
