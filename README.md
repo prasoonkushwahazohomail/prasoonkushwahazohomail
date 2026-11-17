@@ -12,6 +12,9 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Full Stack Develop
 
 ---
 
+<p align="center">   <img src="https://leetcard.jacoblin.cool/prasoonkushwaha?theme=dark&hide_border=true&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" /> </p>
+
+👉 **Explore all my Leetcode Profile:** [Leetcode Profile](https://leetcode.com/u/prasoonkushwaha/)
 
 ## 🛠️ Tech Stack & Tools
 
@@ -52,8 +55,6 @@ Here are some of the projects I'm working on and learning from:
 | Student Study Planner             | Application for organizing study activities    | Web Technologies |
 
  👉 **Explore all my repositories:** [GitHub Repositories](https://github.com/prasoonkushwahazohomail?tab=repositories) 
-
- 👉 **Explore all my Leetcode Profile:** [Leetcode Profile](https://leetcode.com/u/prasoonkushwaha/)
 
 ---
 
