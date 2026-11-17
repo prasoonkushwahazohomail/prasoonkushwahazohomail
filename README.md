@@ -47,15 +47,41 @@ Here are some of the projects I'm working on and learning from:
 
 ---
 
-## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=prasoonkushwahazohomail&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=prasoonkushwahazohomail\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" alt="GitHub Stats" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkushwahazohomail&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkushwahazohomail\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Top Languages" /> \</p>
+## 📊 GitHub Statistics ##
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=prasoonkushwahazohomail&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=prasoonkushwahazohomail\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" /> \</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasoonkushwahazohomail&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkushwahazohomail&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prasoonkushwahazohomail&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me ##
+
+<p align="center">
+  <a href="https://github.com/prasoonkushwahazohomail">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  I'm always interested in learning, collaborating, and connecting with fellow developers.
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b>
+  <br/>
+  <i>Keep Learning. Keep Building. Keep Growing.</i>
+</p>
+
+## 🤝 Connect With Me ##
 
 \<p align="left">   \<a href="[https://github.com/prasoonkushwahazohomail](https://github.com/prasoonkushwahazohomail)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />   \</a> \</p>
 
